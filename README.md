@@ -1,7 +1,7 @@
 # Old‑School OnePunch
 
 **This is a mod for _Old School_ that gives you a one‑punch ability.**  
-⚠️ **WARNING**: This is for _Old School_ only — **not** for _Wrestling Empire_ or any other game.
+⚠️ **WARNING**: This is for _Old School_ only — **not** for _Wrestling Empire_ or any other game. (PC only)
 
 ---
 
