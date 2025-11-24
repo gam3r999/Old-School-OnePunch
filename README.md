@@ -28,12 +28,11 @@ Old‑School OnePunch allows your character to dispatch opponents with a single 
 ---
 
 ## Usage & Notes  
-- The one‑punch ability is triggered via [insert keybind/trigger method if applicable].  
 - Use this mod at your own risk. It may affect game balance or stability.  
 - If you encounter issues (crashes, failures to load), check:  
-  - That BepInExPack is properly installed and up to date.  
-  - That your game version is compatible.  
-  - That there are no conflicts with other mods.
+- That BepInExPack is properly installed and up to date.  
+- That your game version is compatible.  
+- That there are no conflicts with other mods.
 
 ---
 
